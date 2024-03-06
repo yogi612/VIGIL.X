@@ -178,11 +178,3 @@ Scan active and passive and perform port scan ONLY in ports 22,80,3306
 ```sh
 python VIGILI.X.py -m active -d domain -w wordlist.txt -p 22,80,3306
 ```
-
-
-
-## Contact
-
-You can contact me at vadi@securihub.com
-
-**License: for commercial use, contact me at email above**
